@@ -1,4 +1,0 @@
-BOT_TOKEN="8423277151:AAFonPXB47J6EU7x0urwH-wI59xlo0MebWE" # get this value from @BotFather, required
-ADMIN="6047772290" # your telegram ID, required
-DOMAIN="cella.windratuneup.my.id" # your VPS domain, required
-
